@@ -1,4 +1,4 @@
-# BHARAT INTERNSHIP TITANIC CLASSIFICATION PROJECT
+# TITANIC CLASSIFICATION PROJECT
 
 # Overview:
 The Titanic Classification Project conducted during the BHARAT Internship leverages machine learning techniques to predict passenger survival on the historic Titanic voyage. This project delves into the fascinating realm of data analysis, feature engineering, and predictive modeling.
