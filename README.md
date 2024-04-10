@@ -4,6 +4,7 @@
 The Titanic Classification Project conducted during the BHARAT Internship leverages machine learning techniques to predict passenger survival on the historic Titanic voyage. This project delves into the fascinating realm of data analysis, feature engineering, and predictive modeling.
 
 **Objectives:**
+
 *Data Exploration and Preprocessing:*
 
 Meticulously examined and cleaned the dataset to ensure high-quality input for the machine learning model.
@@ -34,13 +35,16 @@ Strived to strike a balance between model complexity and interpretability.
 Maintained clear and concise documentation, including explanations of data preprocessing steps, feature engineering rationale, and model selection criteria.
 
 **Results:**
+
 Achieved a commendable level of accuracy in predicting passenger survival.
 The chosen model demonstrates robustness and resilience against overfitting.
 
 **Future Enhancements:**
+
 Explore advanced ensemble methods and deep learning architectures for potential performance gains.
 Incorporate additional data sources to enrich feature sets and further improve model accuracy.
 
 **Conclusion:**
+
 The BHARAT Internship Titanic Classification Project is a testament to the application of machine learning techniques in predictive modeling. The project not only provides insights into the dynamics of the Titanic dataset but also serves as a valuable learning resource for those interested in data science and classification tasks.
 
